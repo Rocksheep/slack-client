@@ -1,5 +1,6 @@
 # composer dependencies
 /vendor/
+/composer.lock
 
 # ide files
 *.sublime-project
