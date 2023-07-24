@@ -8,8 +8,8 @@
         "email": "me@stephencoakley.com"
     }],
     "require": {
-        "php": ">=7.4",
-        "mpociot/phpws": "^2.0",
+        "php": ">=8.0",
+        "jc5/phpws": "dev-main",
         "evenement/evenement": "~3.0",
         "guzzlehttp/guzzle": "^7.0",
         "react/event-loop": "^1.0 || ^0.5 || ^0.4",
